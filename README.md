@@ -1,3 +1,4 @@
 # Academic
-this involves the my Academic projects and my own projects what i did during my learning period
+This My Repository which involves  my Academic projects and my own projects which i did during my learning period.
+<br>
 Author - Akshata
